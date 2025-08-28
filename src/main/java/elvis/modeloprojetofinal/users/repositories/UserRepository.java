@@ -1,8 +1,8 @@
-package seunomeaqui.modeloprojetofinal.users.repositories;
+package elvis.modeloprojetofinal.users.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-import seunomeaqui.modeloprojetofinal.users.entities.User;
+import elvis.modeloprojetofinal.users.entities.User;
 
 import java.util.List;
 

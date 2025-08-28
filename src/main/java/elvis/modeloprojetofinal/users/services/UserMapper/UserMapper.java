@@ -1,8 +1,8 @@
-package seunomeaqui.modeloprojetofinal.users.services.UserMapper;
+package elvis.modeloprojetofinal.users.services.UserMapper;
 
-import seunomeaqui.modeloprojetofinal.users.dto.UserCreateDTO;
-import seunomeaqui.modeloprojetofinal.users.dto.UserResponseDTO;
-import seunomeaqui.modeloprojetofinal.users.entities.User;
+import elvis.modeloprojetofinal.users.dto.UserCreateDTO;
+import elvis.modeloprojetofinal.users.dto.UserResponseDTO;
+import elvis.modeloprojetofinal.users.entities.User;
 
 public class UserMapper {
 

@@ -1,16 +1,16 @@
-package seunomeaqui.modeloprojetofinal.users.controller;
+package elvis.modeloprojetofinal.users.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import seunomeaqui.modeloprojetofinal.users.dto.UserCreateDTO;
-import seunomeaqui.modeloprojetofinal.users.dto.UserResponseDTO;
-import seunomeaqui.modeloprojetofinal.users.dto.UserUpdateEmailDTO;
-import seunomeaqui.modeloprojetofinal.users.dto.UserUpdateNameDTO;
-import seunomeaqui.modeloprojetofinal.users.services.UserCreateService;
-import seunomeaqui.modeloprojetofinal.users.services.UserDeleteService;
-import seunomeaqui.modeloprojetofinal.users.services.UserQueryService;
-import seunomeaqui.modeloprojetofinal.users.services.UserUpdateService;
+import elvis.modeloprojetofinal.users.dto.UserCreateDTO;
+import elvis.modeloprojetofinal.users.dto.UserResponseDTO;
+import elvis.modeloprojetofinal.users.dto.UserUpdateEmailDTO;
+import elvis.modeloprojetofinal.users.dto.UserUpdateNameDTO;
+import elvis.modeloprojetofinal.users.services.UserCreateService;
+import elvis.modeloprojetofinal.users.services.UserDeleteService;
+import elvis.modeloprojetofinal.users.services.UserQueryService;
+import elvis.modeloprojetofinal.users.services.UserUpdateService;
 
 import java.util.List;
 
